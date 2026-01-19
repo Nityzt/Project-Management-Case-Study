@@ -1,9 +1,8 @@
-# ACE Gear-5 Pro Gaming Controller Launch
+
 ## Project Management Case Study Portfolio
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Course](https://img.shields.io/badge/Course-ENG%202001-blue)
-![Duration](https://img.shields.io/badge/Duration-Aug%202024--May%202025-orange)
 
 ## 📋 Project Overview
 
