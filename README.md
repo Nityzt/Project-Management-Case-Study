@@ -1,9 +1,3 @@
-
-## Project Management Case Study Portfolio
-
-![Project Status](https://img.shields.io/badge/Status-Completed-success)
-![Course](https://img.shields.io/badge/Course-ENG%202001-blue)
-
 ## 📋 Project Overview
 
 Comprehensive project management case study for the launch of ACE Gear-5 Pro Gaming Controller, demonstrating end-to-end project lifecycle management from initiation through closure. This academic project showcases professional-level PM methodologies, tools, and deliverables.
