@@ -4,7 +4,7 @@ Comprehensive project management case study for the launch of a Gaming Controlle
 
 **Project Scope:** Full-scale product launch including design, manufacturing, quality assurance, and marketing campaign  
 **Budget:** $44,758 + $5,242 contingency fund  
-**Timeline:** 6 months (August 2024 - January 2025)  
+**Timeline:** 6 months  
 **Team Size:** 9 cross-functional roles across Product Development, Marketing, and Quality Assurance
 
 ## 🎯 Project Objectives
