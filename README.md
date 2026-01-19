@@ -1,6 +1,6 @@
 ## 📋 Project Overview
 
-Comprehensive project management case study for the launch of ACE Gear-5 Pro Gaming Controller, demonstrating end-to-end project lifecycle management from initiation through closure. This academic project showcases professional-level PM methodologies, tools, and deliverables.
+Comprehensive project management case study for the launch of a Gaming Controller, demonstrating end-to-end project lifecycle management from initiation through closure. This academic project showcases professional-level PM methodologies, tools, and deliverables.
 
 **Project Scope:** Full-scale product launch including design, manufacturing, quality assurance, and marketing campaign  
 **Budget:** $44,758 + $5,242 contingency fund  
